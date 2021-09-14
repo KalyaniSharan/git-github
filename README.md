@@ -1,2 +1,2 @@
 # git-github
-I am earning git
+I am learning git
